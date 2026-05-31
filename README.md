@@ -20,7 +20,7 @@ I am a software engineer and researcher specializing in the intersection of auto
 
 ---
 
-### 🛠️ Technical Arsenal
+### Technical Relevance 
 
 | Domain | Technologies |
 | :--- | :--- |
@@ -59,7 +59,7 @@ I am a software engineer and researcher specializing in the intersection of auto
 </p> -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KoteshwarChinnolla&theme=transparent" alt="Profile Details" height="160" />
-  &nbsp;&nbsp;
+  &nbsp;
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KoteshwarChinnolla&theme=transparent" alt="Top Languages" height="160" />
 </p>
 
