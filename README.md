@@ -1,67 +1,35 @@
-# 👋 Hi, I'm Chinnolla Koteshwar  
+## Chinnolla Koteshwar
 
-🚀 **DevOps Engineer | Java Backend Developer | AI & ML Enthusiast**  
+ECE Graduate · AI & Robotics · DevOps · Published Researcher
 
-I’m passionate about **scalable systems, infrastructure automation, microservices, and AI-driven solutions**.  
-
----
-
-## 🛠️ Tech Stack  
-
-| **DevOps & Cloud** | **Backend & System Design** | **AI & Machine Learning** |
-|--------------------|---------------------------|--------------------------|
-| 🐳 Kubernetes | ☕ Java | 🧠 Deep Learning |
-| 📊 Prometheus | 🌱 Spring Boot | 🤖 Machine Learning |
-| 🌉 Istio | 🔐 Spring Security | 🧑‍🚀 Agentic AI |
-| ☁️ AWS | 📡 Kafka | 🧩 MCP |
-| 🏗️ Terraform | 🛢️ Redis |  |
-|  | 🗄️ PostgreSQL |  |
-
---- 
-
-## 📊 GitHub Stats  
-
-<div align="center">
-  
-<a href="https://github.com/KoteshwarChinnolla">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoteshwarChinnolla&layout=compact&theme=github_dark&hide_border=true" height="180px"/>
-</a>
-
-</div>
-
-
+Building systems at the intersection of language models, robotics, and cloud infrastructure. IEEE-published researcher on autonomous navigation. Currently applying to MS programmes in robotics and autonomous systems at German universities.
 
 ---
 
-## 📂 Featured Projects  
-
-- 🏗️ **[Real-Time Notification System](https://github.com/KoteshwarChinnolla/RealTime_Notification_system.git)**  
-  Event-driven microservices with **Kafka + Redis + PostgreSQL**.
-
-- ☁️ **[Terraform AWS Modules](https://github.com/KoteshwarChinnolla/terraform-modules)**  
-  Fully automated AWS infrastructure setup.
-
-- 🤖 **[Agentic AI on Production](https://github.com/KoteshwarChinnolla/AgenticAi_on_production)**  
-  LangChain + LangGraph-based AI agents for real-world use cases.
+### Research interests
+`Autonomous Robotics` `Reinforcement Learning` `Natural Language Systems` `Intelligent Agents` `Computer Vision`
 
 ---
 
-## 📬 Let's Connect  
+### Tech stack
 
-<p align="center">
-<a href="https://in.linkedin.com/in/koteshwar-chinnolla-2065b4253"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:chinnollakoteshwar@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://x.com/Iam_Koteshwar"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-</p>
+| AI & Research | Cloud & DevOps | Robotics & Systems |
+|---|---|---|
+| PyTorch · TensorFlow · LangChain · LangGraph · OpenCV · RAG · NLP | AWS · Kubernetes · Terraform · Helm · Kafka · Redis · Docker | ROS · Raspberry Pi · Arduino · A* Planning · Python · C++ · Go |
 
 ---
 
-⭐ **Fun Fact:** I enjoy solving **system design problems** & building **AI-powered DevOps workflows**.
+### Featured projects
 
+**APISynIQ** — Multi-service agentic framework for natural language interaction with REST APIs.
+`Go` `Python` `Java` `gRPC` `pgvector` `LangGraph`
 
+**Autonomous Navigation Vehicle** · *IEEE ICOCT 2025* — LLM-driven indoor robot combining natural language planning, A* pathfinding, and conversational task execution.
+`Python` `ROS` `OpenCV`
 
+**Cloud Infrastructure Toolkit** — Reusable Terraform modules and Helm charts for EKS, ECS, VPC, RDS, ALB, Kafka, Redis with GitOps via ArgoCD.
+`Terraform` `Helm` `Kubernetes` `AWS`
 
+---
 
-
-
-
+[LinkedIn](https://in.linkedin.com/in/koteshwar-chinnolla-2065b4253) · [Portfolio](https://koteshwarchinnolla.github.io) · [Email](mailto:chinnollakoteshwar@gmail.com) · [Twitter/X](https://x.com/Iam_Koteshwar)
