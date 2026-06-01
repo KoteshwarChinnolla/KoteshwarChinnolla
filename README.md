@@ -1,4 +1,4 @@
-<h1 align="center">👋Hii, I am Chinnolla Koteshwar</h1>
+<h1 align="center">👋Hello, I am Chinnolla Koteshwar</h1>
 
 <p align="center">
   <samp>ECE Graduate &nbsp;·&nbsp; AI & DevOps Engineer &nbsp;·&nbsp; Published Researcher</samp>
